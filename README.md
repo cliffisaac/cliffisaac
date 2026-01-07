@@ -10,10 +10,10 @@ My background blends **hands-on IT support**, **network troubleshooting**, and *
 
 ## 🛡️ Security & Certification Badges
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B_(In_Progress)-red)
-![Splunk Core Certified Power User](https://img.shields.io/badge/Splunk-Core_Certified_Power_User-brightgreen)
+![Splunk Core Certified User](https://img.shields.io/badge/Splunk-Core_Certified_User-brightgreen)
 ![Networking](https://img.shields.io/badge/Focus-Network_Security-blue)
 ![SIEM](https://img.shields.io/badge/SIEM-Splunk-orange)
-![Security](https://img.shields.io/badge/Domain-Information_Security-black)
+![Information Security](https://img.shields.io/badge/Domain-Information_Security-black)
 
 ---
 
@@ -30,44 +30,54 @@ My background blends **hands-on IT support**, **network troubleshooting**, and *
 ## 🛠️ Tools & Technologies
 - **Networking:** TCP/IP, VLANs, Routing & Switching, Wireshark  
 - **Security:** Firewalls, IDS/IPS, Network Monitoring  
-- **SIEM:** Splunk (Search Processing Language, Dashboards, Alerts, Correlation)  
+- **SIEM:** Splunk (SPL, Searches, Dashboards, Alerts)  
 - **Systems:** Windows, Linux, Active Directory  
 - **Security Concepts:** Zero Trust, Defense-in-Depth, Least Privilege  
 
 ---
 
 ## 💼 IT Support Experience (Network & Security-Driven)
-My IT support experience provided direct exposure to how **network reliability and security** intersect in real environments. Key contributions include:
+My IT support experience provided direct exposure to how **network reliability and information security** intersect in production environments. Key contributions include:
 
-- Troubleshooting **network connectivity issues** across wired and wireless systems  
-- Managing **user access, authentication, and permissions** with security best practices  
-- Investigating system and network behavior to identify **anomalies and potential threats**  
-- Supporting **patching, updates, and secure system configurations**  
-- Assisting with onboarding/offboarding while enforcing **access control policies**  
-- Applying security principles such as **least privilege** and **account lifecycle management**
+- Troubleshooting **network connectivity issues** across wired and wireless infrastructures  
+- Managing **user authentication, permissions, and access controls**  
+- Reviewing system and network logs to identify **anomalous or suspicious activity**  
+- Supporting **patching, updates, and secure configurations**  
+- Assisting with onboarding/offboarding while enforcing **account lifecycle security**  
+- Applying principles such as **least privilege** and **defense-in-depth**
 
-This experience grounds my approach to cybersecurity in **operational reality**, not just theory.
+This experience anchors my cybersecurity approach in **real operational environments**.
 
 ---
 
 ## 🎓 Certifications
-- ✅ **Splunk Core Certified Power User**
+- ✅ **Splunk Core Certified User**
 - 🔄 **CompTIA CySA+** (In Progress)
 
 ---
 
 ## 📂 What You’ll Find in This Repository
-This repository showcases:
+This repository includes:
 - Networking and security labs  
 - Splunk searches, dashboards, and alerting use cases  
 - Log analysis and threat detection exercises  
 - Security-focused IT and network projects  
 
-My goal is to continuously build defensive security expertise rooted in **strong networking fundamentals**.
+My goal is to continuously strengthen defensive security skills rooted in **strong networking fundamentals**.
 
 ---
 
 ## 🎯 Current Goals
-- Grow into **Network Security / SOC / GRC-aligned roles**
-- Strengthen threat detection and incident response skills
-- Ex
+- Transition into **Network Security, SOC, or GRC-aligned roles**
+- Advance SIEM-based detection and incident response skills
+- Actively learn **AI security** and how to **leverage AI for threat detection, automation, and improved defensive security**
+- Explore how **machine learning and AI-driven analytics** can enhance network monitoring, anomaly detection, and cyber defense
+- Expand security monitoring and analytics capabilities
+- Contribute to collaborative security projects and learning communities
+
+---
+
+## 🤝 Let’s Connect
+I’m open to collaboration and professional discussions around **networking, SIEM, AI security, and information security**.
+
+> “You can’t secure what you don’t understand — start with the network.”
