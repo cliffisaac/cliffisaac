@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Cliff Isaac Achokah
+# 👋 Hi, I’m Cliff Isaac 
 
 ## 🔐 Networking & Information Security | Cybersecurity Professional
 
